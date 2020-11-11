@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PianoApp</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+</resources>
